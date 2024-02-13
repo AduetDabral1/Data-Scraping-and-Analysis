@@ -6,17 +6,17 @@ This repository contains code and insights from various web scraping and analysi
 <h2>Projects</h2>
 <ol>
 <li><strong>GitHub Repository Scraper:</strong>
-- Scrapes information from public GitHub repositories based on specified search criteria.
-- Collects data like repository name, description, owner, language, stars, and forks.
+- Scrapes information from public GitHub repositories based on specified search criteria.<br>
+- Collects data like repository name, description, owner, language, stars, and forks.<br>
 </li>
 <li><strong>IMDB Top 100 Movie Scraper</strong>
-- Extract details of the top 100 movies listed on IMDB according to user ratings.
-- Gathers information like title, release year, genre, director, cast, and ratings.
-- Explores relationships between movie features and their critical acclaim.
+- Extract details of the top 100 movies listed on IMDB according to user ratings.<br>
+- Gathers information like title, release year, genre, director, cast, and ratings.<br>
+- Explores relationships between movie features and their critical acclaim.<br>
 </li>
 <li><strong>YouTube Channel Analytics Scraper</strong>
-- Retrieves public analytics data from YouTube channels of interest.
-- Collects metrics like subscriber count, view count, video count, and engagement statistics.
+- Retrieves public analytics data from YouTube channels of interest.<br>
+- Collects metrics like subscriber count, view count, video count, and engagement statistics.<br>
 </li>
 </ol>
 
