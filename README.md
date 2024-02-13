@@ -2,7 +2,7 @@
  
 This repository contains code and insights from various web scraping and analysis projects. Each project focuses on collecting data from a specific platform and extracting meaningful insights through analysis.
 
-[![images1.jpg](https://i.postimg.cc/fT9hQVsz/images1.jpg)](https://postimg.cc/SJkPWNj3)
+[![images1.jpg](https://i.postimg.cc/2S1GKWNG/images1.jpg)](https://postimg.cc/87VLFj5f)
 <h2>Projects</h2>
 <ol>
 <li><strong>GitHub Repository Scraper:</strong>
